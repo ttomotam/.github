@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/870f1e36-6325-41b1-80b7-cec42b937010)
 
+https://github.com/user-attachments/assets/f8f4baaa-ea81-4874-bea7-14c379527bc5
+
 ---
 
 # 또모탐 (ttomotam)
@@ -13,6 +15,7 @@
 - 학습 타이머 설정 및 시작
 - 쉬는 시간 설정 및 반복 기능
 - 학습 종료 후 자동 쉬는 시간 전환
+
 - 쉬는 시간 종료 후 자동 학습 재시작
 - 일시정지 / 재시작 기능
 - 앱을 백그라운드로 보내거나 복귀할 때 타이머 유지
